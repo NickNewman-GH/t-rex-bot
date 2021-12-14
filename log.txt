@@ -1,0 +1,647 @@
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
+down
+up
+space pressed
